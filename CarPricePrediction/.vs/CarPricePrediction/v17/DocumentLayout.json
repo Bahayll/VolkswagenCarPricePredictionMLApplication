@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98F60279-9B88-4815-A87C-62D15512B323}|CarPricePrediction.Module\\CarPricePrediction.Module.csproj|c:\\users\\baha_\\source\\repos\\carpriceprediction\\carpriceprediction.module\\businessobjects\\carpricepredictiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F60279-9B88-4815-A87C-62D15512B323}|CarPricePrediction.Module\\CarPricePrediction.Module.csproj|solutionrelative:carpriceprediction.module\\businessobjects\\carpricepredictiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F60279-9B88-4815-A87C-62D15512B323}|CarPricePrediction.Module\\CarPricePrediction.Module.csproj|c:\\users\\baha_\\source\\repos\\carpriceprediction\\carpriceprediction.module\\businessobjects\\vwcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F60279-9B88-4815-A87C-62D15512B323}|CarPricePrediction.Module\\CarPricePrediction.Module.csproj|solutionrelative:carpriceprediction.module\\businessobjects\\vwcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F60279-9B88-4815-A87C-62D15512B323}|CarPricePrediction.Module\\CarPricePrediction.Module.csproj|c:\\users\\baha_\\source\\repos\\carpriceprediction\\carpriceprediction.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F60279-9B88-4815-A87C-62D15512B323}|CarPricePrediction.Module\\CarPricePrediction.Module.csproj|solutionrelative:carpriceprediction.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC754C4-569C-474B-A5AD-30CFAC87CFA5}|CarPricePrediction.Blazor.Server\\CarPricePrediction.Blazor.Server.csproj|c:\\users\\baha_\\source\\repos\\carpriceprediction\\carpriceprediction.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC754C4-569C-474B-A5AD-30CFAC87CFA5}|CarPricePrediction.Blazor.Server\\CarPricePrediction.Blazor.Server.csproj|solutionrelative:carpriceprediction.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC754C4-569C-474B-A5AD-30CFAC87CFA5}|CarPricePrediction.Blazor.Server\\CarPricePrediction.Blazor.Server.csproj|c:\\users\\baha_\\source\\repos\\carpriceprediction\\carpriceprediction.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC754C4-569C-474B-A5AD-30CFAC87CFA5}|CarPricePrediction.Blazor.Server\\CarPricePrediction.Blazor.Server.csproj|solutionrelative:carpriceprediction.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC754C4-569C-474B-A5AD-30CFAC87CFA5}|CarPricePrediction.Blazor.Server\\CarPricePrediction.Blazor.Server.csproj|c:\\users\\baha_\\source\\repos\\carpriceprediction\\carpriceprediction.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC754C4-569C-474B-A5AD-30CFAC87CFA5}|CarPricePrediction.Blazor.Server\\CarPricePrediction.Blazor.Server.csproj|solutionrelative:carpriceprediction.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F60279-9B88-4815-A87C-62D15512B323}|CarPricePrediction.Module\\CarPricePrediction.Module.csproj|c:\\users\\baha_\\source\\repos\\carpriceprediction\\carpriceprediction.module\\migrations\\20240530205745_myinitialmigrationname1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F60279-9B88-4815-A87C-62D15512B323}|CarPricePrediction.Module\\CarPricePrediction.Module.csproj|solutionrelative:carpriceprediction.module\\migrations\\20240530205745_myinitialmigrationname1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240530205745_MyInitialMigrationName1.cs",
+              "DocumentMoniker": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Module\\Migrations\\20240530205745_MyInitialMigrationName1.cs",
+              "RelativeDocumentMoniker": "CarPricePrediction.Module\\Migrations\\20240530205745_MyInitialMigrationName1.cs",
+              "ToolTip": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Module\\Migrations\\20240530205745_MyInitialMigrationName1.cs",
+              "RelativeToolTip": "CarPricePrediction.Module\\Migrations\\20240530205745_MyInitialMigrationName1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:57:45.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Module\\Module.cs",
+              "RelativeDocumentMoniker": "CarPricePrediction.Module\\Module.cs",
+              "ToolTip": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Module\\Module.cs",
+              "RelativeToolTip": "CarPricePrediction.Module\\Module.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:56:32.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Blazor.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CarPricePrediction.Blazor.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Blazor.Server\\Program.cs",
+              "RelativeToolTip": "CarPricePrediction.Blazor.Server\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:55:57.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlazorModule.cs",
+              "DocumentMoniker": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Blazor.Server\\BlazorModule.cs",
+              "RelativeDocumentMoniker": "CarPricePrediction.Blazor.Server\\BlazorModule.cs",
+              "ToolTip": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Blazor.Server\\BlazorModule.cs",
+              "RelativeToolTip": "CarPricePrediction.Blazor.Server\\BlazorModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:55:55.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlazorApplication.cs",
+              "DocumentMoniker": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Blazor.Server\\BlazorApplication.cs",
+              "RelativeDocumentMoniker": "CarPricePrediction.Blazor.Server\\BlazorApplication.cs",
+              "ToolTip": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Blazor.Server\\BlazorApplication.cs",
+              "RelativeToolTip": "CarPricePrediction.Blazor.Server\\BlazorApplication.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:55:48.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VwCars.cs",
+              "DocumentMoniker": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Module\\BusinessObjects\\VwCars.cs",
+              "RelativeDocumentMoniker": "CarPricePrediction.Module\\BusinessObjects\\VwCars.cs",
+              "ToolTip": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Module\\BusinessObjects\\VwCars.cs",
+              "RelativeToolTip": "CarPricePrediction.Module\\BusinessObjects\\VwCars.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:55:06.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarPricePredictionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Module\\BusinessObjects\\CarPricePredictionDbContext.cs",
+              "RelativeDocumentMoniker": "CarPricePrediction.Module\\BusinessObjects\\CarPricePredictionDbContext.cs",
+              "ToolTip": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Module\\BusinessObjects\\CarPricePredictionDbContext.cs",
+              "RelativeToolTip": "CarPricePrediction.Module\\BusinessObjects\\CarPricePredictionDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:48:24.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

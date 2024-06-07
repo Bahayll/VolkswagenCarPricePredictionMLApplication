@@ -1,0 +1,14 @@
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\bin\Debug\net8.0\CarPricePrediction.Module.deps.json
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\bin\Debug\net8.0\CarPricePrediction.Module.runtimeconfig.json
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\bin\Debug\net8.0\CarPricePrediction.Module.dll
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\bin\Debug\net8.0\CarPricePrediction.Module.pdb
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\CarPricePrediction.Module.csproj.AssemblyReference.cache
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\CarPricePrediction.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\CarPricePrediction.Module.AssemblyInfoInputs.cache
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\CarPricePrediction.Module.AssemblyInfo.cs
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\CarPricePrediction.Module.csproj.CoreCompileInputs.cache
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\CarPricePrediction.Module.dll
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\refint\CarPricePrediction.Module.dll
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\CarPricePrediction.Module.pdb
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\CarPricePrediction.Module.genruntimeconfig.cache
+C:\Users\baha_\source\repos\CarPricePrediction\CarPricePrediction.Module\obj\Debug\net8.0\ref\CarPricePrediction.Module.dll
