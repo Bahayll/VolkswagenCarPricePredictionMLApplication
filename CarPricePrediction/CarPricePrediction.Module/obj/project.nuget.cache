@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jhKF71Shx2FM9kqBIAUgByXWYyJVzpa/flWV2SrTD0pGsZYlihN8ky2FmUm0O49AEZwqyYmtkodFi90FR5BgBw==",
+  "dgSpecHash": "aYr9mH8iy5WaTYT/a5hffekXnLNXb7vNLP+Y/SEWJK3MtPNFhGE5+W1yk5Ym/U90Peddd5ki/ZoWt61qGrZ6JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baha_\\source\\repos\\CarPricePrediction\\CarPricePrediction.Module\\CarPricePrediction.Module.csproj",
+  "projectFilePath": "C:\\Users\\baha_\\OneDrive\\Belgeler\\GitHub\\VolkswagenCarPricePredictionMLApplication\\CarPricePrediction\\CarPricePrediction.Module\\CarPricePrediction.Module.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baha_\\.nuget\\packages\\aqua-core\\5.2.0\\aqua-core.5.2.0.nupkg.sha512",
     "C:\\Users\\baha_\\.nuget\\packages\\aqua-core-text-json\\5.2.0\\aqua-core-text-json.5.2.0.nupkg.sha512",
