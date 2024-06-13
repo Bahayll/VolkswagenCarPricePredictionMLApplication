@@ -12,3 +12,6 @@
 
 ## Feature Types:
 Brand (Categorical), Model (Categorical), Age (Numeric), Mileage (Numeric), Transmission type (Categorical), Fuel type (Categorical), Tax (Numeric), Fuel consumption (Numeric), Engine specifications (Numeric)
+
+
+Youtube Link: https://www.youtube.com/watch?v=ABoHSXg50P0
